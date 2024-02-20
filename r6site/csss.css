@@ -1,0 +1,145 @@
+#menu{
+    background-color: #333 ;
+    background-image: url(menu.jpg);
+    background-repeat: repeat;
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+
+    
+    
+    
+    padding: 20px;
+    }
+     
+    
+    
+
+    a,#hakkinda,p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px;
+    border: 0px solid #ccc;
+    padding: 30px;
+    left: 300px;
+    
+    }
+    
+    a:hover{
+    background-image: url(menu.jpg);
+    
+    
+    
+    
+    }
+  
+    #kayanres  {
+        margin: 0px auto;
+        position: relative;
+        left:   200px;
+        width: 1000px;
+        height: -100px;
+
+    }
+    #kontrol {
+        position: absolute;
+        left: 512px;
+        bottom: -5px ;
+        ;
+
+    }
+    #kontrol a {
+        color: #ffffff;
+        background-color: rgba(0, 0, 0, 0.3);
+        padding: 10px;
+        text-decoration: none;
+        
+    }
+
+
+    #sira {
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.3);
+        padding: 5px 20px 5px 20px; /*yukarı-aşağı-sağ-sol*/
+        position: absolute;
+        bottom:-15px;
+        left: 0px
+    }
+
+    
+    #menu,#header,#top {
+        text-align: center;
+    
+    }
+    #header{
+        margin-top:  50px;
+    }
+    body,p{
+        margin: 0;
+        background-image: url(menu.jpg);
+        background-repeat: repeat;
+    
+    }
+    .kenarlik{
+        border: 1px solid #333;
+        border-radius: 25px;
+    }
+  p{color: white;}
+  h1,h2,h3,h4{color: white;
+  
+    
+
+padding: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+margin: 10px;
+padding: 20px;
+
+}
+
+
+.b1,.b3,.s1,.cs1,.ca,.sm1{
+float: left;
+width: 50%;
+
+
+}
+.si1{float: right;
+width: 50%;}
+
+.temizle{
+    clear: both;
+}
+.hk{
+    float: left;
+
+    width: -20%;
+}
+.atk,.def{
+    text-align: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
